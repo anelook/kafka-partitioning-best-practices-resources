@@ -1,0 +1,1 @@
+# kafka-partitioning-best-practices-resources
