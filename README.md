@@ -9,9 +9,10 @@ This is the list of additional materials for the session "Beginners guide to bal
 4. [Aiven for Apache Kafka®](https://aiven.io/kafka)
 1. [Register for a free trial of Aiven platform](https://console.aiven.io/)
 5. [Playlist of the videos I made on the topic of data partitioning in Apache Kafka](https://www.youtube.com/playlist?list=PLRGo5Bt8bgL5ZbpuBHSPSLVWhbMSX1Z6T)
+6. [Talk "The Dark and Dirty Side of Fixing Uneven Partitions"](https://www.confluent.io/events/kafka-summit-london-2023/the-dark-and-dirty-side-of-fixing-uneven-partitions/)
 
 
-Follow me on
+You can also follow me on
 
 Twitter 🐦 https://twitter.com/OlenaKutsenko
 
